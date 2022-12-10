@@ -14,3 +14,5 @@
     - keyword가 변화할 때 코드를 실행할 것이라고 react.js에게 알려줌
     - 빈 배열만 작성한 경우 코드가 단 한번만 실행(react가 지켜볼 게 없기 때문)
     - [keyword, counter] 같이 두가지 state도 가능
+- 컴포넌트가 destroy 될 때도 코드 실행 가능
+  - return으로 함수를 만들어주면 됨
