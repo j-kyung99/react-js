@@ -16,3 +16,8 @@
     - [keyword, counter] 같이 두가지 state도 가능
 - 컴포넌트가 destroy 될 때도 코드 실행 가능
   - return으로 함수를 만들어주면 됨
+
+### map
+
+- 하나의 array 안에 있는 item들을 내가 원하는 것으로 바꿔주는 역할을 함
+  - 예전 array를 가져와서 변형시킴
