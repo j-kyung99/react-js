@@ -21,3 +21,8 @@
 
 - 하나의 array 안에 있는 item들을 내가 원하는 것으로 바꿔주는 역할을 함
   - 예전 array를 가져와서 변형시킴
+
+### async-await
+
+- then 대신에 보편적으로 사용하는 것
+- await을 감싸는 await을 만들 수 있음
